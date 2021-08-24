@@ -86,7 +86,7 @@ top coworking space in Pune, shared office space for rent, affordable coworker s
 					</li>
 					<li><a href="amenities.php">Amenities</a>
 					</li>
-					<li><a href="https://venturecentre.in/blog">Blog</a>
+					<li><a href="https://vcncoworking.com/coworking-blog/">Blog</a>
 					</li>
 					<!-- <li><a href="baner.php">Gallery</a></li>-->
 					<li><a href="locations.php">Pricing</a>
