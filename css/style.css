@@ -88,7 +88,7 @@ p {
 	display: table;
 	width: 100%;
 	height: 100vh;
-	background: url(../img/cowork.jpg) top center fixed;
+	background: url(../img/cowork.webp) top center fixed;
 	background-size: cover;
 }
 #hero .hero-logo {
@@ -435,7 +435,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	padding: 80px 0 0 0;
 }
 #about .about-container {
-	background: url(../img/about-img.jpg) left bottom no-repeat;
+	background: url(../img/about-img.webp) left bottom no-repeat;
 }
 #about .about-content {
 	background: #fff;
@@ -453,7 +453,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	padding: 80px 0;
 }
 #about1 .about1-container {
-	background: url(../img/about-img1.jpg) right top no-repeat;
+	background: url(../img/about-img1.webp) right top no-repeat;
 }
 #about1 .about1-content {
 	background: #fff;
