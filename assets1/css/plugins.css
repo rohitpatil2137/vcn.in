@@ -1,0 +1,147 @@
+/* plugins used code */
+
+
+.fa-chevron-up:before {
+    content: "\f077"
+}
+
+.pull-left {
+    float: left
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0)
+}
+
+.flipInX {
+    -webkit-backface-visibility: visible!important;
+    -ms-backface-visibility: visible!important;
+    backface-visibility: visible!important;
+    -webkit-animation-name: flipInX;
+    animation-name: flipInX
+}
+
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp
+}
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn
+}
+
+
+/* **mobile view **** */
+
+
+.fa-chevron-up:before {
+    content: "\f077"
+}
+
+.pull-left {
+    float: left
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0)
+}
+
+.flipInX {
+    -webkit-backface-visibility: visible!important;
+    -ms-backface-visibility: visible!important;
+    backface-visibility: visible!important;
+    -webkit-animation-name: flipInX;
+    animation-name: flipInX
+}
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp
+}
+
+.fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn
+}
+
+
+/* **Aminities**** */
+
+.fadeInUp {
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp
+}
+
+.fa-rotate-right:before,.fa-repeat:before {
+    content: "\f01e"
+}
+.fa-print:before {
+    content: "\f02f"
+}
+
+.fa-edit:before,.fa-pencil-square-o:before {
+    content: "\f044"
+}
+.fa-chevron-up:before {
+    content: "\f077"
+}
+.fa-key:before {
+    content: "\f084"
+}
+.fa-filter:before {
+    content: "\f0b0"
+}
+.fa-group:before,.fa-users:before {
+    content: "\f0c0"
+}
+.fa-navicon:before,.fa-reorder:before,.fa-bars:before {
+    content: "\f0c9"
+}
+.fa-coffee:before {
+    content: "\f0f4"
+}
+.fa-desktop:before {
+    content: "\f108"
+}
+.fa-female:before {
+    content: "\f182"
+}
+.fa-user-secret:before {
+    content: "\f21b"
+}
+
+
+/* ***pricing** */
+
+.fa-check-circle:before {
+    content: "\f058"
+}
+
+.fa-remove:before,.fa-close:before,.fa-times:before {
+    content: "\f00d"
+}
+
+
+
+/* conct****** */
+.fa-map-marker:before {
+    content: "\f041"
+}
+.fa-phone:before {
+    content: "\f095"
+}
+
+.fa-envelope:before {
+    content: "\f0e0"
+}
