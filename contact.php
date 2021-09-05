@@ -27,8 +27,7 @@ conference rooms and private cabins, shared Office on monthly basis, Low Budget 
 	<!-- Visit now pop up responsive code -->
 	<link href="css/popup.css" rel="stylesheet">
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.9/jquery-ui.js" type="text/javascript"></script>
-	<link href="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.9/themes/blitzer/jquery-ui.css" rel="stylesheet" type="text/css" />
+	
 	<!--<meta name="description" content=""> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -41,7 +40,7 @@ conference rooms and private cabins, shared Office on monthly basis, Low Budget 
 	<link rel="stylesheet" href="assets1/css/style.css">
 	<!--Theme Responsive css-->
 	<link rel="stylesheet" href="assets1/css/responsive.css" />
-	<script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119388570-1"></script>
 	<script>
