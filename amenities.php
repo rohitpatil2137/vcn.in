@@ -24,7 +24,7 @@ and all the amenities like High Speed Internet, power backup, air conditioned, w
 	<link href="css/style.css" rel="stylesheet">
 	<!-- Visit now pop up responsive code -->
 	<link href="css/popup.css" rel="stylesheet">
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
 	
 	<!--
 <meta name="description" content=""> -->
