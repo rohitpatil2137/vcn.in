@@ -22,7 +22,7 @@ top coworking space in Pune, shared office space for rent, affordable coworker s
 	
 	<!-- Main Stylesheet File -->
 	<link href="css/style.css" rel="stylesheet">
-	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	
 	<!--<meta name="description" content="Affordable coworker space"> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
