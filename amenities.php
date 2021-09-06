@@ -42,6 +42,7 @@ and all the amenities like High Speed Internet, power backup, air conditioned, w
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119388570-1"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
