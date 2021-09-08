@@ -1,3 +1,7 @@
+
+RewriteEngine On
+RewriteRule ^SHARED\ SPACE\ AMENITIES$ /amenities.php [L]
+
 RewriteEngine On
 RewriteRule ^Venture\ Centre\ Network$ /index.php [L]
 
