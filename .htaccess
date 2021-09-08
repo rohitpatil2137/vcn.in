@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteRule ^Venture\ Centre\ Network$ /index.php [L]
+
+
+RewriteEngine On
+RewriteRule ^Best\ Coworking\ Space\ in\ Baner$ /#about [L]
+
+RewriteEngine On
+RewriteRule ^Shared\ Office\ in\ Baner\ \|\ Pune$ /amenities.php [L]
+
+RewriteEngine On
+RewriteRule ^Affordable\ pricing\ shared\ space\ in\ Pune$ /locations.php [L]
+
+RewriteEngine On
+RewriteRule ^COWORKING\ REQUIREMNTS$ /contact.php [L]
