@@ -35,7 +35,7 @@ conference rooms and private cabins, shared Office on monthly basis, Low Budget 
 	<!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
 	<!--For Plugins external css-->
 	<link rel="stylesheet" href="assets1/css/plugins.css" />
-	<link rel="stylesheet" href="assets1/css/roboto-webfont.css" />
+	
 	<!--Theme custom css -->
 	<link rel="stylesheet" href="assets1/css/style.css">
 	<!--Theme Responsive css-->
